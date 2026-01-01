@@ -1,3 +1,9 @@
+/* class ClassName {
+// properties or fields
+// methods or functions
+}
+ */
+
 class Camera{
   int? id;
   String? cameraName;
