@@ -1,6 +1,8 @@
 import 'package:oop_dart/camera_oop.dart';
 
 void main() {
+  //ClassName objectName = ClassName();
+
   Camera cameraOne = Camera();
   Camera cameraTwo = Camera();
 
